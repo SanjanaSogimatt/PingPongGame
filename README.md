@@ -1,2 +1,2 @@
 # PingPongGame
-A ping pong game using HTML,CSS and JavaScript
+A ping pong game using HTML,Bulma and JavaScript
